@@ -1,0 +1,333 @@
+{
+    "tests": [
+        {
+            "score": 0.7,
+            "max_score": 0.7,
+            "name": "test_quicksort.py::test_1_medianOfThree[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-5]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.5,
+            "max_score": 0.5,
+            "name": "test_quicksort.py::test_1_medianOfThree[mot-6]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0.9,
+            "max_score": 0.9,
+            "name": "test_quicksort.py::test_1_medianOfThree[array-7]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[array-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[par-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[array-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[par-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[array-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[par-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_2_partition_already_sorted[array-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_3_partition_reversed[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_3_partition_reversed[array-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_3_partition_reversed[par-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_3_partition_reversed[array-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_3_partition_reversed[par-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_3_partition_reversed[array-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_3_partition_reversed[par-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_3_partition_reversed[array-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_4_partition_shuffled[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_4_partition_shuffled[array-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_4_partition_shuffled[par-1]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_4_partition_shuffled[array-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_4_partition_shuffled[par-2]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_4_partition_shuffled[array-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_4_partition_shuffled[par-3]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 2.25,
+            "max_score": 2.25,
+            "name": "test_quicksort.py::test_4_partition_shuffled[array-4]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_5_sort_already_sorted[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.75,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_5_sort_already_sorted[arr-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.75,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_5_sort_already_sorted[arr-after]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_6_sort_reversed[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.75,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_6_sort_reversed[arr-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.75,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_6_sort_reversed[arr-after]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 1.5,
+            "max_score": 1.5,
+            "name": "test_quicksort.py::test_7_sort_shuffled[everything-else]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.75,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_7_sort_shuffled[arr-before]",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6.75,
+            "max_score": 6.75,
+            "name": "test_quicksort.py::test_7_sort_shuffled[arr-after]",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}
